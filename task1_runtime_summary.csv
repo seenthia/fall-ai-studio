@@ -1,0 +1,4 @@
+Model,Fit Time (s),Predict Time (s)
+Naive Bayes,3.613,0.750
+Logistic Regression,7.958,0.174
+KNN (k=7),24.822,159.717
